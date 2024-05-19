@@ -1,5 +1,11 @@
 # tavily-api
 
+## 1.0.0
+
+### Major Changes
+
+- 6b95216: Somewhat usable search api wrapper
+
 ## 2.0.0
 
 ### Major Changes
