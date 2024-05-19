@@ -1,5 +1,11 @@
 # tavily-api
 
+## 1.0.1
+
+### Patch Changes
+
+- fixed import
+
 ## 1.0.0
 
 ### Major Changes
