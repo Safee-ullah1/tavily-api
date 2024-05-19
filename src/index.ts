@@ -3,7 +3,7 @@ import { Response, TavilySearchParams } from "./types";
 import { responseSchema } from "./validator";
 import { ZodError } from "zod";
 
-class TavilySearchAPI {
+export class TavilySearchAPI {
 	private baseURL: string;
 	private apiKey: string;
 
